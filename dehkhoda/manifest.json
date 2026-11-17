@@ -1,0 +1,142 @@
+{
+ "name": "dehkhoda",
+ "entries": 312506,
+ "db_file": "dehkhoda.db",
+ "encoding": "base64",
+ "gz_size": 95615732,
+ "gz_sha256": "9434de49c390ecd9014be92b88fe34ea37074edccc79910c34f268762bd0e459",
+ "db_size": 117809152,
+ "parts_total_size": 127487644,
+ "parts": [
+  {
+   "file": "part001.b64",
+   "size": 4000000
+  },
+  {
+   "file": "part002.b64",
+   "size": 4000000
+  },
+  {
+   "file": "part003.b64",
+   "size": 4000000
+  },
+  {
+   "file": "part004.b64",
+   "size": 4000000
+  },
+  {
+   "file": "part005.b64",
+   "size": 4000000
+  },
+  {
+   "file": "part006.b64",
+   "size": 4000000
+  },
+  {
+   "file": "part007.b64",
+   "size": 4000000
+  },
+  {
+   "file": "part008.b64",
+   "size": 4000000
+  },
+  {
+   "file": "part009.b64",
+   "size": 4000000
+  },
+  {
+   "file": "part010.b64",
+   "size": 4000000
+  },
+  {
+   "file": "part011.b64",
+   "size": 4000000
+  },
+  {
+   "file": "part012.b64",
+   "size": 4000000
+  },
+  {
+   "file": "part013.b64",
+   "size": 4000000
+  },
+  {
+   "file": "part014.b64",
+   "size": 4000000
+  },
+  {
+   "file": "part015.b64",
+   "size": 4000000
+  },
+  {
+   "file": "part016.b64",
+   "size": 4000000
+  },
+  {
+   "file": "part017.b64",
+   "size": 4000000
+  },
+  {
+   "file": "part018.b64",
+   "size": 4000000
+  },
+  {
+   "file": "part019.b64",
+   "size": 4000000
+  },
+  {
+   "file": "part020.b64",
+   "size": 4000000
+  },
+  {
+   "file": "part021.b64",
+   "size": 4000000
+  },
+  {
+   "file": "part022.b64",
+   "size": 4000000
+  },
+  {
+   "file": "part023.b64",
+   "size": 4000000
+  },
+  {
+   "file": "part024.b64",
+   "size": 4000000
+  },
+  {
+   "file": "part025.b64",
+   "size": 4000000
+  },
+  {
+   "file": "part026.b64",
+   "size": 4000000
+  },
+  {
+   "file": "part027.b64",
+   "size": 4000000
+  },
+  {
+   "file": "part028.b64",
+   "size": 4000000
+  },
+  {
+   "file": "part029.b64",
+   "size": 4000000
+  },
+  {
+   "file": "part030.b64",
+   "size": 4000000
+  },
+  {
+   "file": "part031.b64",
+   "size": 4000000
+  },
+  {
+   "file": "part032.b64",
+   "size": 3487644
+  }
+ ],
+ "format": 1,
+ "source": "sornay/Persian-Dictionaries via M-Rajabi-dev/persian-dictionaries-sqlite"
+}
